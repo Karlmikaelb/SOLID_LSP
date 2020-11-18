@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_LSP", "SOLID_LSP\SOLID_LSP.csproj", "{5868BE4E-8A17-4379-A0E0-A19C9E2BEB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_ISP", "SOLID_ISP\SOLID_ISP.csproj", "{CA27950F-102E-46DF-B272-A46C8E7CC3F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_DIP", "SOLID_DIP\SOLID_DIP.csproj", "{21E07A15-68EB-4336-9FE5-8AB9CA2F6F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5868BE4E-8A17-4379-A0E0-A19C9E2BEB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5868BE4E-8A17-4379-A0E0-A19C9E2BEB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5868BE4E-8A17-4379-A0E0-A19C9E2BEB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5868BE4E-8A17-4379-A0E0-A19C9E2BEB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA27950F-102E-46DF-B272-A46C8E7CC3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA27950F-102E-46DF-B272-A46C8E7CC3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA27950F-102E-46DF-B272-A46C8E7CC3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA27950F-102E-46DF-B272-A46C8E7CC3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E07A15-68EB-4336-9FE5-8AB9CA2F6F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E07A15-68EB-4336-9FE5-8AB9CA2F6F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E07A15-68EB-4336-9FE5-8AB9CA2F6F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E07A15-68EB-4336-9FE5-8AB9CA2F6F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC4B9D4-8AEB-44DF-B09A-554B7AEDC204}
+	EndGlobalSection
+EndGlobal
